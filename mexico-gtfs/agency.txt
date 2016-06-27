@@ -1,0 +1,8 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+CC,Corredores Concesionados,http://www.semovi.df.gob.mx/,America/Mexico_City,,5658-1111
+MB,Metrobús,http://www.metrobus.df.gob.mx/,America/Mexico_City,,5761-6858 Ext. 121 y 136
+METRO,Sistema de Transporte Colectivo Metro,http://www.metro.df.gob.mx/,America/Mexico_City,,5709-1133 Ext. 5051 y 5009
+NCC,NOCHEBÚS Corredores concesionados,http://www.semovi.df.gob.mx/,America/Mexico_City,,5658-1111
+RTP,Red de Transporte de Pasajeros,http://www.rtp.gob.mx/,America/Mexico_City,,5566-5891
+STE,Servicio de Transportes Eléctricos,http://www.ste.df.gob.mx/,America/Mexico_City,,5539-2800
+SUB,Ferrocarriles Suburbanos,http://www.fsuburbanos.com/,America/Mexico_City,,1946-0790

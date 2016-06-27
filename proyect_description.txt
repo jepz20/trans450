@@ -1,0 +1,16 @@
+Public Transportation App
+Prepare for this project with JavaScript Promises and Building Offline-First Apps.
+
+Requirements
+You must build an application that allows users to select a departure and arrival
+train station, and see a list of trains, times, and durations. Initially,
+the application should load a default train schedule - many public transportation
+ agencies offer this information via an API or as a GTFS file (for example, CalTrain
+ (http://www.caltrain.com/developer.html)
+ or the My511.org transit data feed(http://511.org/developer-resources_transit-data-feed.asp)).
+If the application is online, your schedule
+ should reflect the available transit data, informing the user of relevant information
+ for example departure times and arrival times.
+
+Review the evaluation rubric(https://review.udacity.com/?_ga=1.249067911.1211131238.1460004041#!/projects/5505930269/rubric)
+ for this project early and often.
